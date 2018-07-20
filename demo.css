@@ -1,0 +1,15 @@
+h1,h2 {
+    color: green;
+    background-color: pink;
+    border: solid black;
+    padding: 10px;
+}
+
+div>p {
+    color: blue;
+    font-size: 20pt;
+}
+
+body {
+    background: beige;
+}

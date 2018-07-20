@@ -1,0 +1,24 @@
+.text-red {
+    color: red;
+}
+.text-bold {
+    font: bold;
+}
+div.center {
+    width: 200px;
+    margin: auto;
+}
+h1,h2 {
+    text-align: center;
+}
+h3 {
+    color: red;
+}
+
+dt {
+    font-weight: bold;
+}
+table {
+    border: gray;
+    
+}
